@@ -1,0 +1,16 @@
+{
+  "name": "crawler-video-calculator-codedrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/crawler.js"
+  },
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "puppeteer-core": "^5.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
