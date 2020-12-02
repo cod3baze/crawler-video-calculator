@@ -39,7 +39,7 @@ const platform = os.platform();
   hours += hoursFromMinutes
 
   console.log(
-    `Produzimos ${hours}:${minutes}:${seconds} de conteúdo para o Codedrops`
+    `Produzimos ${hours}:${minutes}:${seconds} de conteúdo para o Code/Drops`
   );
   // document.querySelectorAll(".ytd-playlist-video-list-renderer span.ytd-thumbnail-overlay-time-status-renderer")
 
